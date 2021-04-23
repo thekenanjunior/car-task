@@ -1,6 +1,6 @@
 Instructions
 
-1. First import the db,sql file to the database
+1. First import the db.sql file to the database
 
 2. Change the pdo.php file with relevant credentials
 
