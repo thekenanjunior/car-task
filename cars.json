@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "car_id": 0,
+    "availability": 23,
+    "isActive": true,
+    "price": "3,973.29",
+    "vat": 23,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Skoda",
+      "color": "#FFD20F",
+      "engine": 3,
+      "fuel": "gasoline",
+      "type": "Hatchback"
+    }
+  },
+  {
+    "id": 1,
+    "car_id": 1,
+    "availability": 37,
+    "isActive": true,
+    "price": "2,682.56",
+    "vat": 17,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Fiat",
+      "color": "#ff0000",
+      "engine": 2.5,
+      "fuel": "gasoline",
+      "type": "Hatchback"
+    }
+  },
+  {
+    "id": 2,
+    "car_id": 2,
+    "availability": 23,
+    "isActive": true,
+    "price": "2,712.83",
+    "vat": 23,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Peugeot",
+      "color": "#ff0000",
+      "engine": 2.5,
+      "fuel": "gasoline",
+      "type": "Combi"
+    }
+  },
+  {
+    "id": 3,
+    "car_id": 3,
+    "availability": 35,
+    "isActive": true,
+    "price": "2,732.60",
+    "vat": 19,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Opel",
+      "color": "#0F3CFF",
+      "engine": 3,
+      "fuel": "gasoline",
+      "type": "Combi"
+    }
+  },
+  {
+    "id": 4,
+    "car_id": 4,
+    "availability": 4,
+    "isActive": true,
+    "price": "2,754.13",
+    "vat": 17,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Opel",
+      "color": "#FFD20F",
+      "engine": 1.3,
+      "fuel": "Diesel",
+      "type": "Hatchback"
+    }
+  },
+  {
+    "id": 5,
+    "car_id": 5,
+    "availability": 33,
+    "isActive": true,
+    "price": "1,334.15",
+    "vat": 23,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Peugeot",
+      "color": "#FFD20F",
+      "engine": 1.3,
+      "fuel": "gasoline",
+      "type": "Hatchback"
+    }
+  },
+  {
+    "id": 6,
+    "car_id": 6,
+    "availability": 34,
+    "isActive": true,
+    "price": "3,460.97",
+    "vat": 17,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Audi",
+      "color": "#FFD20F",
+      "engine": 3.5,
+      "fuel": "gasoline",
+      "type": "Combi"
+    }
+  },
+  {
+    "id": 7,
+    "car_id": 7,
+    "availability": 37,
+    "isActive": true,
+    "price": "1,351.08",
+    "vat": 19,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Opel",
+      "color": "#ffffff",
+      "engine": 2.5,
+      "fuel": "gasoline",
+      "type": "Sedan"
+    }
+  },
+  {
+    "id": 8,
+    "car_id": 8,
+    "availability": 5,
+    "isActive": true,
+    "price": "2,129.07",
+    "vat": 17,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Fiat",
+      "color": "#000000",
+      "engine": 3,
+      "fuel": "Diesel",
+      "type": "Hatchback"
+    }
+  },
+  {
+    "id": 9,
+    "car_id": 9,
+    "availability": 1,
+    "isActive": true,
+    "price": "1,349.76",
+    "vat": 23,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Fiat",
+      "color": "#00FF40",
+      "engine": 3,
+      "fuel": "Diesel",
+      "type": "Sedan"
+    }
+  },
+  {
+    "id": 10,
+    "car_id": 10,
+    "availability": 3,
+    "isActive": true,
+    "price": "1,921.20",
+    "vat": 19,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Skoda",
+      "color": "#ffffff",
+      "engine": 2.5,
+      "fuel": "Diesel",
+      "type": "Combi"
+    }
+  },
+  {
+    "id": 11,
+    "car_id": 11,
+    "availability": 0,
+    "isActive": true,
+    "price": "3,806.57",
+    "vat": 17,
+    "picture": "https://picsum.photos/300/300",
+    "attributes": {
+      "name": "Peugeot",
+      "color": "#000000",
+      "engine": 1.3,
+      "fuel": "gasoline",
+      "type": "Hatchback"
+    }
+  }
+]
